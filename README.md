@@ -1,2 +1,3 @@
 # react-image-crop-demo
-Created with CodeSandbox
+
+Working example based on codesandnbpx demo from https://www.npmjs.com/package/react-image-crop
